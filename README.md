@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I work as a Senior Web Developer at @Shopify. I also do hobby programming, almost always entirely unrelated to web development. That's mostly what you'll find in my repos and I've pinned a few below 👇🏻.
+I work as a Senior Web Developer at Shopify. I also do hobby programming, almost always entirely unrelated to web development. That's mostly what you'll find in my repos and I've pinned a few below 👇🏻.
 
 ### Some more about me
 
