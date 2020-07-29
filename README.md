@@ -6,7 +6,7 @@ I work as a Senior Web Developer at Shopify. I also do hobby programming, almost
 
 - 🔭 I’m currently working on a social network application tentatively called [Anecdotal](https://www.anecdotal.app/).
 - 🌱 I’m currently learning SIMD and GPU computation, and re-learning Rails development
-- 💬 Ask me about Rust, basic operating system development
+- 💬 Ask me about React, Rust, operating system development
 - 📫 You can reach me by emailing michael@michaelmelanson.net
 - 😄 Pronouns: he/him
 <!--
