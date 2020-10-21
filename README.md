@@ -4,7 +4,7 @@ I work as a Senior Web Developer at Shopify. I also do hobby programming, almost
 
 ### Some more about me
 
-- 🔭 I’m currently working on a social network application tentatively called [Anecdotal](https://www.anecdotal.app/).
+- 🔭 In my spare time I’m mostly working on [a toy operating system](https://github.com/michaelmelanson/panda).
 - 🌱 I’m currently learning SIMD and GPU computation, and re-learning Rails development
 - 💬 Ask me about React, Rust, operating system development
 - 📫 You can reach me by emailing michael@michaelmelanson.net
