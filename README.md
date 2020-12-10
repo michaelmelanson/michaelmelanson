@@ -5,7 +5,6 @@ I'm a software developer, and in my spare time I do hobby programming of various
 ### Some more about me
 
 - 🔭 In my spare time I’m mostly working on [a toy operating system](https://github.com/michaelmelanson/panda) and other random projects.
-<!-- - 🌱 I’m currently learning SIMD and GPU computation, and re-learning Rails development -->
 - 💬 Ask me about React, Rust, operating system development
 - 📫 You can reach me by emailing michael@michaelmelanson.net
 - 😄 Pronouns: he/him
