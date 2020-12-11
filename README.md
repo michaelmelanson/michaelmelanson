@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer, and in my spare time I do hobby programming of various kinds. I've pinned a few of my projects below 👇🏻.
+I'm a software developer, and in my spare time I do hobby programming of various kinds. I've pinned a few of my projects below. 👇🏻
 
 ### Some more about me
 
