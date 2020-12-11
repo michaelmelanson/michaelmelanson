@@ -4,7 +4,7 @@ I'm a software developer, and in my spare time I do hobby programming of various
 
 ### Some more about me
 
-- 🔭 In my spare time I’m mostly working on [a toy operating system](https://github.com/michaelmelanson/panda) and other random projects.
+- 🔭 In my spare time I’m mostly working on [a toy operating system](https://github.com/michaelmelanson/panda), a system for [rich server-driven UIs](https://github.com/michaelmelanson/pinhole), and other random projects.
 - 💬 Ask me about React, Rust, operating system development
 - 📫 You can reach me by emailing michael@michaelmelanson.net
 - 😄 Pronouns: he/him
